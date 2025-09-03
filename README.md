@@ -30,5 +30,3 @@ This project investigates the **impact of the COVID-19 pandemic on the gender wa
 * **Stata** (data cleaning, regression models, table generation, statistical testing)
 
 ---
-
-Do you want me to also make you a **short GitHub tagline** (like a one-sentence summary you can put at the very top of the README)?
